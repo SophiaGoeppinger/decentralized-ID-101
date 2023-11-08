@@ -12,6 +12,12 @@ THe table below lists resources that can help with the population of the Decentr
 | 3.5 | Decentralized key management solutions | [Anything on KERI](https://keri.one/keri-resources/) | Sophia Goeppinger
 | 3.7 | Articles about the level of interoperability within the field | [Transatlantic SSI Interop (2022) by Markus Sabadello](https://medium.com/@markus.sabadello/transatlantic-ssi-interop-52bac6be8dfe) | Sophia Goeppinger
 | 3.1<br />3.12<br />3.13 | Resources that provide architectural design principels useful for implementation planning | [Design Principles of the Trust over IP Stack by the Trust over IP Foundation](https://trustoverip.org/our-work/design-principles/)<br /> <br />[Mid-Yeat Progress Report on the ToIP Trust-Spanning Protocol by the Trust over IP Foundation](https://trustoverip.org/blog/2023/08/31/mid-year-progress-report-on-the-toip-trust-spanning-protocol/) | Sophia Goeppinger
+### Intro to decentralized ID
+
+| Stage      | Resource Type | Titel                   | Description                     | Contributor |
+| :--------  | :------------  | :----------------------  | :---------------------------  | :---------- |
+| Building the foundations
+
 ### Exemplary decentralized ID initiatives 
 These initiatives may serve as an inspiration for your decentralized ID endeavors
 | Sector      | Consortium/Organization(s) | Decentralized ID Initiative  | Description                  | Contributor |
