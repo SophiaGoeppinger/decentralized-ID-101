@@ -13,9 +13,16 @@ Are you our target audience? Find out if you'll benefit from our curated resourc
 - [ ] **Decision Maker Seeking Clarity:** I hold a decision-making role in my organization where decentralized ID is on the table as a potential project. While I'm not well-versed in the specifics, I'm seeking a concise, clear overview of decentralized ID that fits into my busy schedule without requiring extensive time commitment.
 - [ ] **Following Sophia's Assessment Tool:** I've been directed here from Sophia Goeppinger's Decentralized ID Checklist. I'm looking for detailed information to complement the assessment framework or seek specific insights referenced in that tool _(Note: Feel welcomed to browse around or jump straight to Section 4, dedicated exclusively to the references made in the Decentralized ID Checklist)._
 
+## 1. Intro
+Welcome! It's fantastic to have you here. Below, you'll find a curated **list of resources** designed to kickstart your journey into the world of decentralized ID. These resources are thoughtfully organized by level of expertise and depth. As you delve deeper down the list, the content becomes more detailed. Items marked with a star (*) are advanced and may be more suitable for those further along in their understanding, but feel free to explore these as well based on your knowledge and curiosity. In addition to our resource list, we offer an overview of selected **conferences** that we find particularly beneficial, as well as a list of **associations** dedicated to the advancement of decentralized ID in its various forms. 
 
-## Resource Library
-### Resources linked to the Decentralized ID Checklist 
+**But, a word of caution before you dive in:** The decentralized ID community, like many others, is diverse and somewhat fragmented. Although there's a collective direction, individuals and groups within the community have their unique perspectives on the best practices and methodologies. This is crucial to remember, particularly for newcomers, as initial interactions could subtly influence your understanding based on specific viewpoints. To simplify, we see the community as comprising 2.5 key groups. The first group includes those who shaped the landscape as we currently know it, recognizable through social log-in interfaces like Facebook and Google. The second group focuses on Verifiable Identifiers, working with concepts like DIDs and AIDs (don't worry if these terms mean absolutely nothing to you at this stage). The "half" group encompasses the blockchain enthusiasts, who, despite seeming a bit distant, remain a significant part of this ecosystem.
+
+In this guide, our goal is to remain objective, prioritizing quality over ideology. We've sourced, in oru opinion, the finest materials from all these streams, allowing you to form your own informed opinions. This should give you enough context to start your exploration. Happy browsing!
+
+## 2. Why and What Decentralized ID
+
+## 4. Resources Linked to the Decentralized ID Checklist 
 The table below lists resources that can help with the population of the Decentralized ID Checklist as well as planning a decentralized ID initiative upon deciding for such an endeavor:
 | Reference Code | Resource Description | Link to Resource | Contributor |
 | :------------- | :------------------- | :--------------- | :---------- |
