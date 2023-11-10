@@ -1,7 +1,20 @@
-# Decentralized ID 101: A Starter Library for Novices
+# Decentralized Identity 101: A Starter Library for Novices
+A curated list of resources introducing decentralized identity and related concepts
 **Starter library curators:** Sophia Goeppinger and Matt Murray
 
-Decentralized identity (ID), as we perceive it today, is a novel concept, yet its foundational elements have roots stretching back decades, some even predating the advent of the modern internet. While this field is burgeoning with diverse resources, navigating through this digital maze can be overwhelming, especially for those just beginning their journey. That's where we step in. Our mission is to demystify decentralized ID for beginners by carefully curating a comprehensive starter library. We aim to bridge the gap between complex jargon and foundational understanding, ensuring that these resources are accessible, relevant, and engaging.
+- [Start Here](#start-here-target-audience-checklist)
+- [Intro](#1-intro)
+- [Why Decentralized Identity](#2-de-mystifying-decentralized-understanding-the-why-and-what)
+- [Foundations Roadmap](#3-laying-the-groundwork-your-knowledge-building-journey)
+- [Organizations](#4-decentralized-id-associations)
+- [Initiatives](#5-exemplary-decentralized-id-initiatives)
+- [Checklist Resources](#6-resources-linked-to-the-decentralized-id-checklist) 
+
+
+*insert a one line definition of decentralized identity* 
+Decentralized identity is ______
+
+Decentralized identity (ID), as we perceive it today, is a novel concept, yet its foundational elements have roots stretching back decades, some even predating the advent of the modern internet. While this field is burgeoning with diverse resources, navigating through this digital maze can be overwhelming, especially for those just beginning their journey. That's where we step in. Our mission is to **demystify decentralized ID for beginners by carefully curating a comprehensive starter library**. We aim to bridge the gap between complex jargon and foundational understanding, ensuring that these resources are accessible, relevant, and engaging.
 
 Before diving into our library, we encourage you to take a quick glance at our "Target Audience Checklist" below. This will help you gauge if these resources align perfectly with your learning stage and interests in decentralized ID.
 
@@ -23,8 +36,8 @@ In this guide, our goal is to remain objective, prioritizing quality over ideolo
 ## 2. De-Mystifying Decentralized: Understanding the "Why" and "What"
 For a quick and concise understanding, please scroll up and check out the "Decentralized ID Overview" one-pager.
 
-## 3. Laying the Groundwrok: Your Knowledge Building Journey
-| Stage      | Resource Type  | Titel                             | Description                  
+## 3. Laying the Groundwork: Your Knowledge Building Journey
+| Stage      | Resource Type  | Title                             | Description                  
 | :--------  | :------------  | :-------------------------------  | :---------------------------  
 |Building the foundations
 
