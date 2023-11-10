@@ -37,7 +37,7 @@ The table below lists association that try to drive this novel field of decentra
 |Foundation|[Trust over IP Foundation](https://trustoverip.org) |
 |Foundation|[Global Legal Entity Identifier Foundation (GLEIF)](https://www.gleif.org/en)|Established by the Financial Stability Board in June 2014, GLEIF is tasked to support the implementation and use of the Legal Entity Identifier (LEI). The foundation is backed and overseen by the Regulatory Oversight Committee, representing public authorities from around the globe that have come together to jointly drive forward transparency within the global financial markets. GLEIF is a supra-national not-for-profit organization headquartered in Basel, Switzerland.
 
-## 5. Exemplary decentralized ID initiatives 
+## 5. Exemplary Decentralized ID Initiatives 
 These initiatives may serve as an inspiration for your decentralized ID endeavors
 | Sector      | Consortium/Organization(s) | Decentralized ID Initiative  | Description                  
 | :---------- | :------------------------- | :--------------------------- | :--------------------------- 
