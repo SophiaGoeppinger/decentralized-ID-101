@@ -1,5 +1,18 @@
-# Decentralized ID Checklist
-All the resources related to the Decentralized ID Checklist
+# Decentralized ID 101: A Starter Library for Novices
+**Starter library curators:** Sophia Goeppinger and Matt Murray
+
+Decentralized identity (ID), as we perceive it today, is a novel concept, yet its foundational elements have roots stretching back decades, some even predating the advent of the modern internet. While this field is burgeoning with diverse resources, navigating through this digital maze can be overwhelming, especially for those just beginning their journey. That's where we step in. Our mission is to demystify decentralized ID for beginners by carefully curating a comprehensive starter library. We aim to bridge the gap between complex jargon and foundational understanding, ensuring that these resources are accessible, relevant, and engaging.
+
+Before diving into our library, we encourage you to take a quick glance at our "Target Audience Checklist" below. This will help you gauge if these resources align perfectly with your learning stage and interests in decentralized ID.
+
+## Start Here: Target Audience Checklist
+Are you our target audience? Find out if you'll benefit from our curated resources. Simply go through the checklist below and see if any of these points resonate with you:
+
+- [ ] **Absolute Beginner:** I've recently come across terms like "decentralized ID", "decentralized digital ID", or "self-sovereign identity (SSI)" and am curious, but my knowledge doesn't extend much beyond the names themselves.
+- [ ] **Developer on the Cusp:** I'm a developer whose organization is exploring or even beginning to implement decentralized ID. While my experience in development is solid, my familiarity with decentralized ID is still budding.
+- [ ] **Decision Maker Seeking Clarity:** I hold a decision-making role in my organization where decentralized ID is on the table as a potential project. While I'm not well-versed in the specifics, I'm seeking a concise, clear overview of decentralized ID that fits into my busy schedule without requiring extensive time commitment.
+- [ ] **Following Sophia's Assessment Tool:** I've been directed here from Sophia Goeppinger's Decentralized ID Checklist. I'm looking for detailed information to complement the assessment framework or seek specific insights referenced in that tool _(Note: Feel welcomed to browse around or jump straight to Section 4, dedicated exclusively to the references made in the Decentralized ID Checklist)._
+
 
 ## Resource Library
 ### Resources linked to the Decentralized ID Checklist 
