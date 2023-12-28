@@ -84,10 +84,10 @@ The table below lists resources that can help with the population of the Decentr
 | :------------- | :------------------- | :--------------- 
 |2.1|Books and articles providing insights into the concept behind decentralized ID and its capabilities | Refer to the resources provided under *Building the foundations* in the section *Laying the groundwork: Your knowledge building journey*
 |2.4|Investment frameworks for similar broad concepts e.g., AI| 
-|3.3|Standards organizations and their different decentralized ID standards|W3C: [`Verifiable Credentials Data Model v1.1`](https://www.w3.org/TR/vc-data-model/)[`Decentralized Identifiers (DIDs) v1.0`](https://www.w3.org/TR/did-core/)<br /> <br />RWOT:
-|3.5|Decentralized key management solutions|[Anything on KERI](https://keri.one/keri-resources/)|Sophia Goeppinger<br /> <br />Matt Murray
-|3.7|Articles about the level of interoperability within the field|[Transatlantic SSI Interop (2022) by Markus Sabadello](https://medium.com/@markus.sabadello/transatlantic-ssi-interop-52bac6be8dfe)
-|3.1<br />3.12<br />3.13|Resources that provide architectural design principels useful for implementation planning|[Design Principles of the Trust over IP Stack by the Trust over IP Foundation](https://trustoverip.org/our-work/design-principles/)<br /> <br />[Mid-Yeat Progress Report on the ToIP Trust-Spanning Protocol by the Trust over IP Foundation](https://trustoverip.org/blog/2023/08/31/mid-year-progress-report-on-the-toip-trust-spanning-protocol/)
+|3.3|Standards organizations and their different decentralized ID standards|W3C: [`Verifiable credentials data model v1.1`](https://www.w3.org/TR/vc-data-model/)[`Decentralized identifiers (DIDs) v1.0`](https://www.w3.org/TR/did-core/)<br /> <br />RWOT:
+|3.5|Decentralized key management solutions|[Anything on KERI](https://keri.one/keri-resources/)
+|3.7|Articles about the level of interoperability within the field|[Transatlantic SSI interop (2022) by Markus Sabadello](https://medium.com/@markus.sabadello/transatlantic-ssi-interop-52bac6be8dfe)
+|3.1<br />3.12<br />3.13|Resources that provide architectural design principels useful for implementation planning|[Design principles of the ToIP stack by the ToIP Foundation](https://trustoverip.org/our-work/design-principles/)<br /> <br />[Mid-year progress report on the ToIP trust-spanning protocol by the ToIP Foundation](https://trustoverip.org/blog/2023/08/31/mid-year-progress-report-on-the-toip-trust-spanning-protocol/)
 
 
 
