@@ -82,7 +82,7 @@ These initiatives may serve as an inspiration for your decentralized ID endeavor
 The table below lists resources that can help with the population of the Decentralized ID Checklist as well as planning a decentralized ID initiative upon deciding for such an endeavor:
 | Reference Code | Resource Description | Link to Resource 
 | :------------- | :------------------- | :--------------- 
-|2.1|Books and articles providing insights into the concept behind decentralized ID and its capabilities | Refer to the resources provided under *Building the foundations* in the Section *Laying the groundwork: Your knowledge building journey*
+|2.1|Books and articles providing insights into the concept behind decentralized ID and its capabilities | Refer to the resources provided under *Building the foundations* in the section *Laying the groundwork: Your knowledge building journey*
 |2.4|Investment frameworks for similar broad concepts e.g., AI| 
 |3.3|Standards organizations and their different decentralized ID standards|W3C: [`Verifiable Credentials Data Model v1.1`](https://www.w3.org/TR/vc-data-model/)[`Decentralized Identifiers (DIDs) v1.0`](https://www.w3.org/TR/did-core/)<br /> <br />RWOT:
 |3.5|Decentralized key management solutions|[Anything on KERI](https://keri.one/keri-resources/)|Sophia Goeppinger<br /> <br />Matt Murray
