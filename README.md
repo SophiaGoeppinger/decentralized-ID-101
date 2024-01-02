@@ -83,7 +83,7 @@ The table below lists resources that can help with the population of the Decentr
 | Reference Code | Resource Description | Link to Resource 
 | :------------- | :------------------- | :--------------- 
 |2.1|Books and articles providing insights into the concept behind decentralized ID and its capabilities | Refer to the resources provided under *Building the foundations* in the section *Laying the groundwork: Your knowledge building journey*
-|2.4|Investment frameworks for similar broad concepts e.g., AI| 
+|2.4|Investment frameworks for similar broad concepts e.g., AI| [*Introducing the Responsible AI Investment Framework*](https://medium.com/j12ventures/introducing-the-responsible-ai-investment-framework-5a056ea22a6c)
 |3.3|Standards organizations and their different decentralized ID standards|W3C: [*Verifiable credentials data model v1.1*](https://www.w3.org/TR/vc-data-model/) and [*Decentralized identifiers (DIDs) v1.0*](https://www.w3.org/TR/did-core/)<br /> <br />RWOT: [*RWOT papers*](https://www.weboftrust.info/papers/)
 |3.5|Decentralized key management solutions|[Anything on KERI](https://keri.one/keri-resources/)
 |3.7|Articles about the level of interoperability within the field|[*Transatlantic SSI interop* (2022) by Markus Sabadello](https://medium.com/@markus.sabadello/transatlantic-ssi-interop-52bac6be8dfe)
